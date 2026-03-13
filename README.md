@@ -29,8 +29,8 @@
 
 ## Contributing
 
-If you're looking for a way to contribute, you can scan through our existing issues for something to work on.
-We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read our [Contributing Guide](CONTRIBUTING.md) how you can take part in improving hello-world.
+If you're looking for a way to contribute, you can scan us through our existing issues for something to work on.
+We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read our [Contributing Guide](CONTRIBUTING.md) where you can take part in improving hello-world.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
@@ -38,7 +38,7 @@ We want to make contributing to this project as easy and transparent as possible
 
 ## Join us in discussions
 
-We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions](https://github.com/orgs/codinasion/discussions).
+We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us through the [discussions](https://github.com/orgs/codinasion/discussions).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
@@ -53,7 +53,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
-      <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
+      <li> We thank you being part of our :sparkles: commUnity :sparkles: !</li>
     </ul>
     <img width="900" height="0">
     </td>
